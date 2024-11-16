@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "particle": "jmusicdisccrafter:block/music_disc_crafter_top",
+    "down": "jmusicdisccrafter:block/music_disc_crafter_bottom",
+    "up": "jmusicdisccrafter:block/music_disc_crafter_top",
+    "north": "jmusicdisccrafter:block/music_disc_crafter_north",
+    "south": "jmusicdisccrafter:block/music_disc_crafter_south",
+    "east": "jmusicdisccrafter:block/music_disc_crafter_east",
+    "west": "jmusicdisccrafter:block/music_disc_crafter_west"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "custom_music_disc": {
+    "sounds": [
+      {
+        "name": "jmusicdisccrafter:custom_music_disc",
+        "stream": true
+      }
+    ]
+  }
+}
